@@ -1,0 +1,65 @@
+body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f8f8f8;
+      color: #333;
+    }
+
+    header {
+      background-color: #8B0000;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+
+    .menu-container {
+      max-width: 600px;
+      margin: auto;
+      padding: 1rem;
+    }
+
+    .category {
+      margin-bottom: 1.5rem;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      overflow: hidden;
+    }
+
+    .category h2 {
+      background-color: #f1f1f1;
+      margin: 0;
+      padding: 0.8rem;
+      font-size: 1.2rem;
+      color: #8B0000;
+    }
+
+    .item {
+      display: flex;
+      justify-content: space-between;
+      padding: 0.8rem;
+      border-top: 1px solid #eee;
+    }
+
+    .item:first-child {
+      border-top: none;
+    }
+
+    .item-name {
+      font-weight: 600;
+    }
+
+    .item-price {
+        color: #8B0000;
+        font-weight: bold;
+        white-space: nowrap; /* 🔑 Evita che € e numero vadano a capo */
+    }
+
+    /* Mobile friendly spacing */
+    @media (max-width: 480px) {
+      .item-name, .item-price {
+        font-size: 0.95rem;
+      }
+    }
