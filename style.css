@@ -1,7 +1,7 @@
 body {
       font-family: Arial, sans-serif;
       margin: 0;
-      background-color: #f8f8f8;
+      background-color: #0f0f0f;
       color: #333;
     }
 
@@ -12,6 +12,18 @@ body {
       padding: 1rem;
       font-size: 1.5rem;
       font-weight: bold;
+      position: relative;
+    }
+
+    .coperto-container{
+        position: absolute;
+        right: 0;
+        bottom: 1px; /* O il valore che preferisci per spostarlo più in alto dal bordo inferiore */
+        padding: 5px;
+        font-size: 0.8rem; /* Rendi la scritta del coperto un po' più piccola per contrasto */
+        background-color: rgba(0, 0, 0, 0.2); /* Un leggero sfondo per renderlo più leggibile */
+        border-radius: 5px; /* Angoli arrotondati */
+        text-align: right; 
     }
 
     .menu-container {
