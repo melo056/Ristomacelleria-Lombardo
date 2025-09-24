@@ -1,306 +1,141 @@
 <!DOCTYPE html>
 <html lang="it">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menu - Ristomacelleria Lombardo</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-key="pageTitle">Menu - Ristomacelleria Lombardo</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>Menu ristomacelleria Lombardo
-    <div class="coperto-container">Coperto € 2,00</div>
+  <header>
+    <span data-key="headerTitle">Menu Ristomacelleria Lombardo</span>
+    <div class="coperto-container" data-key="coperto">Coperto € 2,00</div>
+    <select id="lang-switcher">
+      <option value="it">🇮🇹 Italiano</option>
+      <option value="en">🇬🇧 English</option>
+    </select>
   </header>
 
   <div class="menu-container">
     <div class="category">
-        <h2>antipasti</h2>
-        <div class="item">
-            <span class="item-name">Bruschette vari gusti</span>
-            <span class="item-price">€ 3,00</span>
-        </div>
-        <div class="item">
-            <span class="item-name">Caprese (pomodoro, mozzarella, basilico)</span>
-            <span class="item-price">€ 6,00</span>
-        </div>
-        <div class="item">
-            <span class="item-name">Tagliere all'italiana (salumi, formaggio, olive)</span>
-            <span class="item-price">€ 7,50</span>
-        </div>
-        <div class="item">
-            <span class="item-name">Tagliere gustoso (salame, lardo, primosale)</span>
-            <span class="item-price">€ 7,50</span>
-        </div>
-        <div class="item">
-            <span class="item-name">Tagliere demy (mortadella, pancetta, formaggio, sottoli)</span>
-            <span class="item-price">€ 9,00</span>
-        </div>
-        <div class="item">
-            <span class="item-name">Tagliere ristomacelleria X2 (sformati vari, pancetta, lardo, mortadella, salame, speak, pepato fresco, formaggi)</span>
-            <span class="item-price">€ 20,00</span>
-        </div>
-    </div>
-  </div>
-
-  <div class="menu-container">
-    <div class="category">
-      <h2>Primi Piatti</h2>
+      <h2 data-key="antipasti">Antipasti</h2>
       <div class="item">
-        <span class="item-name">Paccheri funghi e salsiccia</span>
-        <span class="item-price">€ 8,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Casarecce alla matriciana</span>
-        <span class="item-price">€ 8,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Maccheroni al ragù</span>
-        <span class="item-price">€ 8,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Penne al pistacchio e pancetta</span>
-        <span class="item-price">€ 8,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Spaghetti alla carbonara</span>
-        <span class="item-price">€ 8,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Spaghetti cacio e pepe</span>
-        <span class="item-price">€ 8,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Spaghetti aglio, olio e peperoncino</span>
-        <span class="item-price">€ 8,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Spaghetti alla carrettiera con melanzane</span>
-        <span class="item-price">€ 8,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Maccheroni alla norma</span>
-        <span class="item-price">€ 8,00</span>
-      </div>
-    </div>
-
-    <div class="category">
-      <h2>Secondi Piatti</h2>
-      <div class="item">
-        <span class="item-name">The Rib Eye(Costata di scottona, patatine)</span>
-        <span class="item-price">€ 14,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">The Cow Rib(Costata di vacca, patatine)</span>
-        <span class="item-price">€ 14,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">The Porch(Salsiccia, costata di maiale, patatine)</span>
-        <span class="item-price">€ 12,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">The Scotton(scottadito, braciole, hamburgher, patatine)</span>
-        <span class="item-price">€ 15,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">The Chicken(Coscia di pollo con aromi, braciole di pollo, alette, patatine)</span>
-        <span class="item-price">€ 12,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">The Mixed Grill(Salsiccia, braciole, hamburgher, alette, cipollina, patatine)</span>
-        <span class="item-price">€ 18,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">The Cut Chicken(Tagliata di pollo gr.500, patatine)</span>
-        <span class="item-price">€ 12,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">The Demy(Mix di braciole, salsiccia, bacon, patatine)</span>
-        <span class="item-price">€ 13,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">The Cut gr.600 circa(Controfiletto di scottona e patatine)</span>
-        <span class="item-price">€ 24,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">The Fiorentine 1kg circa(Fiorentina di scottona e patatine)</span>
-        <span class="item-price">€ 35,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Spiedino con patatine o insalata</span>
-        <span class="item-price">€ 8,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Costata di maiale con patatine o insalata</span>
-        <span class="item-price">€ 8,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Petto di pollo con patatine o insalata</span>
-        <span class="item-price">€ 8,00</span>
-      </div>
-    </div>
-
-    <div class="category">
-      <h2>Friggitoria</h2>
-      <div class="item">
-        <span class="item-name">patatine piccola</span>
-        <span class="item-price">€ 2,50</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Anelli di cipolla</span>
+        <span class="item-name" data-key="bruschette"></span>
         <span class="item-price">€ 3,00</span>
       </div>
       <div class="item">
-        <span class="item-name">Crochette</span>
-        <span class="item-price">€ 3,50</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Panzerotti</span>
-        <span class="item-price">€ 3,50</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Frittura mista X2 persone(patatine, Crochette, Anelli di cipolla, Panzerotti, wurstel)</span>
-        <span class="item-price">€ 10,00</span>
-      </div>
-    </div>
-
-    <div class="category">
-      <h2>Panineria</h2>
-      <div class="item">
-        <span class="item-name">Patatino(Salsiccia, patatine, salse a scelta)</span>
+        <span class="item-name" data-key="caprese"></span>
         <span class="item-price">€ 6,00</span>
       </div>
       <div class="item">
-        <span class="item-name">Cartoccio(Braciole a scelta, formaggio, salse a scelta)</span>
-        <span class="item-price">€ 6,00</span>
+        <span class="item-name" data-key="tagliere1"></span>
+        <span class="item-price">€ 7,50</span>
       </div>
       <div class="item">
-        <span class="item-name">Topolino(Fetta di vitello, patatine o verdura, salse)</span>
-        <span class="item-price">€ 6,00</span>
+        <span class="item-name" data-key="tagliere2"></span>
+        <span class="item-price">€ 7,50</span>
       </div>
       <div class="item">
-        <span class="item-name">Speciale(hamburgher, formaggio, patatine, salse)</span>
-        <span class="item-price">€ 6,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Prelibato(hamburgher, bacon, cipolla, lattuga, salse)</span>
-        <span class="item-price">€ 6,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Gustoso(Cotoletta di pollo o vitello, verdura o patatine, salse)</span>
-        <span class="item-price">€ 6,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Imperiale(doppio hamburgher, patatine, salse a scelta)</span>
+        <span class="item-name" data-key="tagliere3"></span>
         <span class="item-price">€ 9,00</span>
       </div>
-    </div>
-
-    <div class="category">
-      <h2>Bevande</h2>
       <div class="item">
-        <span class="item-name">Acqua naturale</span>
-        <span class="item-price">€ 2,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Acqua Lete</span>
-        <span class="item-price">€ 2,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Coca, sprite, aranciata o chinotto in lattina</span>
-        <span class="item-price">€ 2,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Birra messina cl.33</span>
-        <span class="item-price">€ 2,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Vino Rosso locale cl.25</span>
-        <span class="item-price">€ 2,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Birra heineken cl.33</span>
-        <span class="item-price">€ 3,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Coca cola 1,5 lt.</span>
-        <span class="item-price">€ 3,50</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Tennet' s cl.33</span>
-        <span class="item-price">€ 4,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Vino Rosso locale lt.1</span>
-        <span class="item-price">€ 5,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Peroni rossa/Raffo bionda (Birra alla spina 0.20cl)</span>
-        <span class="item-price">€ 2,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Peroni rossa/Raffo bionda (Birra alla spina 0.30cl)</span>
-        <span class="item-price">€ 3,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Peroni rossa/Raffo bionda (Birra alla spina 0.50cl)</span>
-        <span class="item-price">€ 5,00</span>
-      </div>
-    </div>
-
-    <div class="category">
-      <h2>Aperitivi</h2>
-      <div class="item">
-        <span class="item-name">Negroni</span>
-        <span class="item-price">€ 7,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Gin Tonic</span>
-        <span class="item-price">€ 7,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Wodka Tonic</span>
-        <span class="item-price">€ 7,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Spritz</span>
-        <span class="item-price">€ 7,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">Prosecco</span>
-        <span class="item-price">€ 5,00</span>
-      </div>
-    </div>
-
-     <div class="category">
-      <h2>Dessert</h2>
-      <div class="item">
-        <span class="item-name">tiramisu</span>
-        <span class="item-price">€ 5,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">chesecake al mango</span>
-        <span class="item-price">€ 5,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">chesecake al cioccolato</span>
-        <span class="item-price">€ 5,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">cuore caldo</span>
-        <span class="item-price">€ 5,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">tartufo nero</span>
-        <span class="item-price">€ 5,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">tartufo bianco</span>
-        <span class="item-price">€ 5,00</span>
-      </div>
-      <div class="item">
-        <span class="item-name">sorbetto</span>
-        <span class="item-price">€ 3,00</span>
+        <span class="item-name" data-key="tagliere4"></span>
+        <span class="item-price">€ 20,00</span>
       </div>
     </div>
   </div>
+
+  <!-- 🔹 Tutte le altre categorie hanno la stessa struttura -->
+  <!-- Ti mostro solo i titoli + item con data-key -->
+  <div class="menu-container">
+    <div class="category">
+      <h2 data-key="primi">Primi Piatti</h2>
+      <div class="item"><span class="item-name" data-key="primo1"></span><span class="item-price">€ 8,00</span></div>
+      <div class="item"><span class="item-name" data-key="primo2"></span><span class="item-price">€ 8,00</span></div>
+      <div class="item"><span class="item-name" data-key="primo3"></span><span class="item-price">€ 8,00</span></div>
+      <div class="item"><span class="item-name" data-key="primo4"></span><span class="item-price">€ 8,00</span></div>
+      <div class="item"><span class="item-name" data-key="primo5"></span><span class="item-price">€ 8,00</span></div>
+      <div class="item"><span class="item-name" data-key="primo6"></span><span class="item-price">€ 8,00</span></div>
+      <div class="item"><span class="item-name" data-key="primo7"></span><span class="item-price">€ 8,00</span></div>
+      <div class="item"><span class="item-name" data-key="primo8"></span><span class="item-price">€ 8,00</span></div>
+      <div class="item"><span class="item-name" data-key="primo9"></span><span class="item-price">€ 8,00</span></div>
+    </div>
+
+    <div class="category">
+      <h2 data-key="secondi">Secondi Piatti</h2>
+      <div class="item"><span class="item-name" data-key="secondo1"></span><span class="item-price">€ 14,00</span></div>
+      <div class="item"><span class="item-name" data-key="secondo2"></span><span class="item-price">€ 14,00</span></div>
+      <div class="item"><span class="item-name" data-key="secondo3"></span><span class="item-price">€ 12,00</span></div>
+      <div class="item"><span class="item-name" data-key="secondo4"></span><span class="item-price">€ 15,00</span></div>
+      <div class="item"><span class="item-name" data-key="secondo5"></span><span class="item-price">€ 12,00</span></div>
+      <div class="item"><span class="item-name" data-key="secondo6"></span><span class="item-price">€ 18,00</span></div>
+      <div class="item"><span class="item-name" data-key="secondo7"></span><span class="item-price">€ 12,00</span></div>
+      <div class="item"><span class="item-name" data-key="secondo8"></span><span class="item-price">€ 13,00</span></div>
+      <div class="item"><span class="item-name" data-key="secondo9"></span><span class="item-price">€ 24,00</span></div>
+      <div class="item"><span class="item-name" data-key="secondo10"></span><span class="item-price">€ 35,00</span></div>
+      <div class="item"><span class="item-name" data-key="secondo11"></span><span class="item-price">€ 8,00</span></div>
+      <div class="item"><span class="item-name" data-key="secondo12"></span><span class="item-price">€ 8,00</span></div>
+      <div class="item"><span class="item-name" data-key="secondo13"></span><span class="item-price">€ 8,00</span></div>
+    </div>
+
+    <div class="category">
+      <h2 data-key="friggitoria">Friggitoria</h2>
+      <div class="item"><span class="item-name" data-key="fr1"></span><span class="item-price">€ 2,50</span></div>
+      <div class="item"><span class="item-name" data-key="fr2"></span><span class="item-price">€ 3,00</span></div>
+      <div class="item"><span class="item-name" data-key="fr3"></span><span class="item-price">€ 3,50</span></div>
+      <div class="item"><span class="item-name" data-key="fr4"></span><span class="item-price">€ 3,50</span></div>
+      <div class="item"><span class="item-name" data-key="fr5"></span><span class="item-price">€ 10,00</span></div>
+    </div>
+
+    <div class="category">
+      <h2 data-key="panineria">Panineria</h2>
+      <div class="item"><span class="item-name" data-key="pan1"></span><span class="item-price">€ 6,00</span></div>
+      <div class="item"><span class="item-name" data-key="pan2"></span><span class="item-price">€ 6,00</span></div>
+      <div class="item"><span class="item-name" data-key="pan3"></span><span class="item-price">€ 6,00</span></div>
+      <div class="item"><span class="item-name" data-key="pan4"></span><span class="item-price">€ 6,00</span></div>
+      <div class="item"><span class="item-name" data-key="pan5"></span><span class="item-price">€ 6,00</span></div>
+      <div class="item"><span class="item-name" data-key="pan6"></span><span class="item-price">€ 6,00</span></div>
+      <div class="item"><span class="item-name" data-key="pan7"></span><span class="item-price">€ 9,00</span></div>
+    </div>
+
+    <div class="category">
+      <h2 data-key="bevande">Bevande</h2>
+      <div class="item"><span class="item-name" data-key="bev1"></span><span class="item-price">€ 2,00</span></div>
+      <div class="item"><span class="item-name" data-key="bev2"></span><span class="item-price">€ 2,00</span></div>
+      <div class="item"><span class="item-name" data-key="bev3"></span><span class="item-price">€ 2,00</span></div>
+      <div class="item"><span class="item-name" data-key="bev4"></span><span class="item-price">€ 2,00</span></div>
+      <div class="item"><span class="item-name" data-key="bev5"></span><span class="item-price">€ 2,00</span></div>
+      <div class="item"><span class="item-name" data-key="bev6"></span><span class="item-price">€ 3,00</span></div>
+      <div class="item"><span class="item-name" data-key="bev7"></span><span class="item-price">€ 3,50</span></div>
+      <div class="item"><span class="item-name" data-key="bev8"></span><span class="item-price">€ 4,00</span></div>
+      <div class="item"><span class="item-name" data-key="bev9"></span><span class="item-price">€ 5,00</span></div>
+      <div class="item"><span class="item-name" data-key="bev10"></span><span class="item-price">€ 2,00</span></div>
+      <div class="item"><span class="item-name" data-key="bev11"></span><span class="item-price">€ 3,00</span></div>
+      <div class="item"><span class="item-name" data-key="bev12"></span><span class="item-price">€ 5,00</span></div>
+    </div>
+
+    <div class="category">
+      <h2 data-key="aperitivi">Aperitivi</h2>
+      <div class="item"><span class="item-name" data-key="ap1"></span><span class="item-price">€ 7,00</span></div>
+      <div class="item"><span class="item-name" data-key="ap2"></span><span class="item-price">€ 7,00</span></div>
+      <div class="item"><span class="item-name" data-key="ap3"></span><span class="item-price">€ 7,00</span></div>
+      <div class="item"><span class="item-name" data-key="ap4"></span><span class="item-price">€ 7,00</span></div>
+      <div class="item"><span class="item-name" data-key="ap5"></span><span class="item-price">€ 5,00</span></div>
+    </div>
+
+    <div class="category">
+      <h2 data-key="dessert">Dessert</h2>
+      <div class="item"><span class="item-name" data-key="des1"></span><span class="item-price">€ 5,00</span></div>
+      <div class="item"><span class="item-name" data-key="des2"></span><span class="item-price">€ 5,00</span></div>
+      <div class="item"><span class="item-name" data-key="des3"></span><span class="item-price">€ 5,00</span></div>
+      <div class="item"><span class="item-name" data-key="des4"></span><span class="item-price">€ 5,00</span></div>
+      <div class="item"><span class="item-name" data-key="des5"></span><span class="item-price">€ 5,00</span></div>
+      <div class="item"><span class="item-name" data-key="des6"></span><span class="item-price">€ 5,00</span></div>
+      <div class="item"><span class="item-name" data-key="des7"></span><span class="item-price">€ 3,00</span></div>
+    </div>
+  </div>
+
+  <script src="lang.js"></script>
 </body>
 </html>
