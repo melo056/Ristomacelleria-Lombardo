@@ -118,51 +118,55 @@
   "items": [
     {
       "name": "Margherita (Fior di latte, salsa di pomodoro, basilico, olio)",
-      "price": "€ 7"
+      "price": "7,00"
     },
     {
       "name": "Primavera (Fior di latte, salsa di pomodoro, prosciutto cotto, olio)",
-      "price": "€ 8"
+      "price": "8,00"
     },
     {
       "name": "Romana (Fior di latte, salsa di pomodoro, olive nere, acciughe, olio)",
-      "price": "€ 8"
+      "price": "8,00"
     },
     {
       "name": "Messinese (Fior di latte, salsa di pomodoro, scarola, acciughe, olio)",
-      "price": "€ 9"
+      "price": "9,00"
     },
     {
       "name": "Champignon (Fior di latte, salsa di pomodoro, funghi champignon, olio)",
-      "price": "€ 9"
+      "price": "9,00"
     },
     {
       "name": "Piccantella (Fior di latte, salsa di pomodoro, salame piccante, olio)",
-      "price": "€ 10"
+      "price": "10,00"
     },
     {
       "name": "Capricciosa (Fior di latte, salsa di pomodoro, funghi, prosciutto cotto, carciofini, olive nere, olio)",
-      "price": "€ 10"
+      "price": "10,00"
     },
     {
       "name": "Norma (Fior di latte, salsa di pomodoro, melanzane, ricotta infornata, basilico, olio)",
-      "price": "€ 10"
+      "price": "10,00"
     },
     {
       "name": "Bufala (Mozzarella di bufala, fior di latte, salsa di pomodoro, basilico, olio)",
-      "price": "€ 11"
+      "price": "11,00"
     },
     {
       "name": "Affumicata (Mozzarella affumicata, fior di latte, salsa di pomodoro, speck, olio)",
-      "price": "€ 12"
+      "price": "12,00"
     },
     {
       "name": "Bresaola (Fior di latte, salsa di pomodoro, rucola, bresaola, scaglie di parmigiano, olio)",
-      "price": "€ 12"
+      "price": "12,00"
     },
     {
       "name": "Pistacchiosa (Fior di latte, mortadella, burrata, pesto e granella di pistacchio, olio)",
-      "price": "€ 14"
+      "price": "14,00"
+    },
+    {
+      "name": "San Demetrio (Pomodoro, mozzarella, salame, salsiccia, uovo a occhio di bue)",
+      "price": "14,00"
     }
   ]
 },
