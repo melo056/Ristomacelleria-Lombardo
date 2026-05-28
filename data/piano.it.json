@@ -1,0 +1,333 @@
+{
+  "categories": [
+
+    {
+      "name": "Antipasti",
+      "items": [
+        {
+          "name": "Bruschette vari gusti",
+          "price": "3,00"
+        },
+        {
+          "name": "Caprese (pomodoro, mozzarella, basilico)",
+          "price": "6,00"
+        },
+        {
+          "name": "Tagliere all'italiana (salumi, formaggio, olive)",
+          "price": "7,50"
+        },
+        {
+          "name": "Tagliere gustoso (salame, lardo, primosale)",
+          "price": "7,50"
+        },
+        {
+          "name": "Tagliere demy (mortadella, pancetta, formaggio, sottoli)",
+          "price": "9,00"
+        },
+        {
+          "name": "Tagliere ristomacelleria X2 (sformati vari, pancetta, lardo, mortadella, salame, speck, pepato fresco, formaggi)",
+          "price": "20,00"
+        }
+      ]
+    },
+
+    {
+      "name": "Primi Piatti",
+      "items": [
+        {
+          "name": "Paccheri funghi e salsiccia",
+          "price": "8,00"
+        },
+        {
+          "name": "Casarecce alla matriciana",
+          "price": "8,00"
+        },
+        {
+          "name": "Maccheroni al ragù",
+          "price": "8,00"
+        },
+        {
+          "name": "Penne al pistacchio e pancetta",
+          "price": "8,00"
+        },
+        {
+          "name": "Spaghetti alla carbonara",
+          "price": "8,00"
+        },
+        {
+          "name": "Spaghetti cacio e pepe",
+          "price": "8,00"
+        },
+        {
+          "name": "Spaghetti aglio, olio e peperoncino",
+          "price": "8,00"
+        },
+        {
+          "name": "Spaghetti alla carrettiera con melanzane",
+          "price": "8,00"
+        },
+        {
+          "name": "Maccheroni alla norma",
+          "price": "8,00"
+        }
+      ]
+    },
+
+    {
+      "name": "Secondi Piatti",
+      "items": [
+        {
+          "name": "The Rib Eye (Costata di scottona, patatine)",
+          "price": "14,00"
+        },
+        {
+          "name": "The Cow Rib (Costata di vacca, patatine)",
+          "price": "14,00"
+        },
+        {
+          "name": "The Porch (Salsiccia, costata di maiale, patatine)",
+          "price": "12,00"
+        },
+        {
+          "name": "The Scotton (scottadito, braciole, hamburgher, patatine)",
+          "price": "15,00"
+        },
+        {
+          "name": "The Chicken (Coscia di pollo con aromi, braciole di pollo, alette, patatine)",
+          "price": "12,00"
+        },
+        {
+          "name": "The Mixed Grill (Salsiccia, braciole, hamburgher, alette, cipollina, patatine)",
+          "price": "18,00"
+        },
+        {
+          "name": "The Cut Chicken (Tagliata di pollo gr.500, patatine)",
+          "price": "12,00"
+        },
+        {
+          "name": "The Demy (Mix di braciole, salsiccia, bacon, patatine)",
+          "price": "13,00"
+        },
+        {
+          "name": "The Cut gr.600 circa (Controfiletto di scottona e patatine)",
+          "price": "24,00"
+        },
+        {
+          "name": "The Fiorentine 1kg circa (Fiorentina di scottona e patatine)",
+          "price": "35,00"
+        },
+        {
+          "name": "Spiedino con patatine o insalata",
+          "price": "8,00"
+        },
+        {
+          "name": "Costata di maiale con patatine o insalata",
+          "price": "8,00"
+        },
+        {
+          "name": "Petto di pollo con patatine o insalata",
+          "price": "8,00"
+        },
+        {
+          "name": "Galletto alla brace",
+          "price": "10,00"
+        },
+        {
+          "name": "Frittelle di scottona con formaggio filante (con patatine)",
+          "price": "8,00"
+        },
+        {
+          "name": "Polpette agnello con patatine o insalata",
+          "price": "10,00"
+        },
+        {
+          "name": "Polpette cavallo con patatine o insalata",
+          "price": "10,00"
+        },
+        {
+          "name": "Braciole cavallo con patatine o insalata",
+          "price": "8,00"
+        },
+        {
+          "name": "Pesce stocco a ghiotta",
+          "price": "15,00"
+        },
+        {
+          "name": "Ventre a ghiotta",
+          "price": "15,00"
+        },
+        {
+          "name": "Costolette di agnellone 300 gr.",
+          "price": "15,00"
+        }
+      ]
+    },
+
+    {
+      "name": "Friggitoria",
+      "items": [
+        {
+          "name": "Patatine piccola",
+          "price": "2,50"
+        },
+        {
+          "name": "Anelli di cipolla",
+          "price": "3,00"
+        },
+        {
+          "name": "Crocchette",
+          "price": "3,50"
+        },
+        {
+          "name": "Panzerotti",
+          "price": "3,50"
+        },
+        {
+          "name": "Frittura mista X2 persone (patatine, crocchette, anelli di cipolla, panzerotti, wurstel)",
+          "price": "10,00"
+        }
+      ]
+    },
+
+    {
+      "name": "Bevande",
+      "items": [
+        {
+          "name": "Acqua naturale",
+          "price": "2,00"
+        },
+        {
+          "name": "Acqua Lete",
+          "price": "2,00"
+        },
+        {
+          "name": "Coca, Sprite, aranciata o chinotto in lattina",
+          "price": "2,00"
+        },
+        {
+          "name": "Birra Messina cl.33",
+          "price": "2,00"
+        },
+        {
+          "name": "Vino Rosso locale cl.25",
+          "price": "2,00"
+        },
+        {
+          "name": "Birra Heineken cl.33",
+          "price": "3,00"
+        },
+        {
+          "name": "Coca Cola 1,5 lt.",
+          "price": "3,50"
+        },
+        {
+          "name": "Tennet's cl.33",
+          "price": "4,00"
+        },
+        {
+          "name": "Vino Rosso locale lt.1",
+          "price": "5,00"
+        },
+        {
+          "name": "Peroni rossa/Raffo bionda (Birra alla spina 0.20cl)",
+          "price": "2,00"
+        },
+        {
+          "name": "Peroni rossa/Raffo bionda (Birra alla spina 0.30cl)",
+          "price": "3,00"
+        },
+        {
+          "name": "Peroni rossa/Raffo bionda (Birra alla spina 0.50cl)",
+          "price": "5,00"
+        }
+      ]
+    },
+
+    {
+      "name": "Aperitivi",
+      "items": [
+        {
+          "name": "Negroni",
+          "price": "7,00"
+        },
+        {
+          "name": "Gin Tonic",
+          "price": "7,00"
+        },
+        {
+          "name": "Vodka Tonic",
+          "price": "7,00"
+        },
+        {
+          "name": "Spritz",
+          "price": "7,00"
+        },
+        {
+          "name": "Prosecco",
+          "price": "5,00"
+        }
+      ]
+    },
+
+    {
+      "name": "Vini",
+      "items": [
+        {
+          "name": "Merlot Sicilia Doc",
+          "price": "15,00"
+        },
+        {
+          "name": "Nero d'Avola",
+          "price": "15,00"
+        },
+        {
+          "name": "Frappato Mandrarossa",
+          "price": "15,00"
+        },
+        {
+          "name": "Maria Costanza",
+          "price": "50,00"
+        }
+      ]
+    },
+
+    {
+      "name": "Dessert",
+      "items": [
+        {
+          "name": "Tiramisù",
+          "price": "5,00"
+        },
+        {
+          "name": "Cheesecake al mango",
+          "price": "5,00"
+        },
+        {
+          "name": "Cheesecake al cioccolato",
+          "price": "5,00"
+        },
+        {
+          "name": "Cuore caldo",
+          "price": "5,00"
+        },
+        {
+          "name": "Tartufo nero",
+          "price": "5,00"
+        },
+        {
+          "name": "Tartufo bianco",
+          "price": "5,00"
+        },
+        {
+          "name": "Sorbetto",
+          "price": "3,00"
+        },
+        {
+          "name": "Cannolo siciliano",
+          "price": "3,00"
+        }
+      ]
+    }
+
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "categories": [
+
+    {
+      "name": "Starters",
+      "items": [
+        {
+          "name": "Bruschetta assorted",
+          "price": "3,00"
+        },
+        {
+          "name": "Caprese (tomato, mozzarella, basil)",
+          "price": "6,00"
+        },
+        {
+          "name": "Italian board (cold cuts, cheese, olives)",
+          "price": "7,50"
+        },
+        {
+          "name": "Tasty board (salami, lard, fresh cheese)",
+          "price": "7,50"
+        },
+        {
+          "name": "Demy board (mortadella, pancetta, cheese, pickles)",
+          "price": "9,00"
+        },
+        {
+          "name": "Butcher board X2 (various pies, pancetta, lard, mortadella, salami, speck, fresh pecorino, cheeses)",
+          "price": "20,00"
+        }
+      ]
+    },
+
+    {
+      "name": "First Courses",
+      "items": [
+        {
+          "name": "Paccheri with mushrooms and sausage",
+          "price": "8,00"
+        },
+        {
+          "name": "Casarecce Amatriciana",
+          "price": "8,00"
+        },
+        {
+          "name": "Maccheroni with ragù",
+          "price": "8,00"
+        },
+        {
+          "name": "Penne with pistachio and bacon",
+          "price": "8,00"
+        },
+        {
+          "name": "Spaghetti Carbonara",
+          "price": "8,00"
+        },
+        {
+          "name": "Spaghetti Cacio e Pepe",
+          "price": "8,00"
+        },
+        {
+          "name": "Spaghetti with garlic, oil and chili",
+          "price": "8,00"
+        },
+        {
+          "name": "Spaghetti Carrettiera with eggplant",
+          "price": "8,00"
+        },
+        {
+          "name": "Maccheroni alla Norma",
+          "price": "8,00"
+        }
+      ]
+    },
+
+    {
+      "name": "Main Courses",
+      "items": [
+        {
+          "name": "The Rib Eye (scottona ribeye, fries)",
+          "price": "14,00"
+        },
+        {
+          "name": "The Cow Rib (beef rib, fries)",
+          "price": "14,00"
+        },
+        {
+          "name": "The Porch (sausage, pork rib, fries)",
+          "price": "12,00"
+        },
+        {
+          "name": "The Scotton (lamb chops, pork chops, hamburger, fries)",
+          "price": "15,00"
+        },
+        {
+          "name": "The Chicken (chicken leg with herbs, chicken chops, wings, fries)",
+          "price": "12,00"
+        },
+        {
+          "name": "The Mixed Grill (sausage, chops, hamburger, wings, onion, fries)",
+          "price": "18,00"
+        },
+        {
+          "name": "The Cut Chicken (500g chicken breast steak, fries)",
+          "price": "12,00"
+        },
+        {
+          "name": "The Demy (mix of chops, sausage, bacon, fries)",
+          "price": "13,00"
+        },
+        {
+          "name": "The Cut ~600g (scottona sirloin, fries)",
+          "price": "24,00"
+        },
+        {
+          "name": "The Fiorentina ~1kg (scottona T-bone, fries)",
+          "price": "35,00"
+        },
+        {
+          "name": "Skewer with fries or salad",
+          "price": "8,00"
+        },
+        {
+          "name": "Pork rib with fries or salad",
+          "price": "8,00"
+        },
+        {
+          "name": "Chicken breast with fries or salad",
+          "price": "8,00"
+        },
+        {
+          "name": "Grilled chicken",
+          "price": "10,00"
+        },
+        {
+          "name": "Beef fritters with melted cheese (with fries)",
+          "price": "8,00"
+        },
+        {
+          "name": "Lamb meatballs with fries or salad",
+          "price": "10,00"
+        },
+        {
+          "name": "Horse meatballs with fries or salad",
+          "price": "10,00"
+        },
+        {
+          "name": "Horse chops with fries or salad",
+          "price": "8,00"
+        },
+        {
+          "name": "Stockfish with ghiotta sauce",
+          "price": "15,00"
+        },
+        {
+          "name": "Belly with ghiotta sauce",
+          "price": "15,00"
+        },
+        {
+          "name": "Lamb chops 300 gr.",
+          "price": "15,00"
+        }
+      ]
+    },
+
+    {
+      "name": "Fried Dishes",
+      "items": [
+        {
+          "name": "Small fries",
+          "price": "2,50"
+        },
+        {
+          "name": "Onion rings",
+          "price": "3,00"
+        },
+        {
+          "name": "Croquettes",
+          "price": "3,50"
+        },
+        {
+          "name": "Panzerotti",
+          "price": "3,50"
+        },
+        {
+          "name": "Mixed fried platter for 2 (fries, croquettes, onion rings, panzerotti, wurstel)",
+          "price": "10,00"
+        }
+      ]
+    },
+
+    {
+      "name": "Drinks",
+      "items": [
+        {
+          "name": "Still water",
+          "price": "2,00"
+        },
+        {
+          "name": "Lete water",
+          "price": "2,00"
+        },
+        {
+          "name": "Coke, Sprite, orange soda or Chinotto (can)",
+          "price": "2,00"
+        },
+        {
+          "name": "Messina beer 33cl",
+          "price": "2,00"
+        },
+        {
+          "name": "Local red wine 25cl",
+          "price": "2,00"
+        },
+        {
+          "name": "Heineken beer 33cl",
+          "price": "3,00"
+        },
+        {
+          "name": "Coca Cola 1.5L",
+          "price": "3,50"
+        },
+        {
+          "name": "Tennent's 33cl",
+          "price": "4,00"
+        },
+        {
+          "name": "Local red wine 1L",
+          "price": "5,00"
+        },
+        {
+          "name": "Peroni red/Raffo blond (draft beer 0.20cl)",
+          "price": "2,00"
+        },
+        {
+          "name": "Peroni red/Raffo blond (draft beer 0.30cl)",
+          "price": "3,00"
+        },
+        {
+          "name": "Peroni red/Raffo blond (draft beer 0.50cl)",
+          "price": "5,00"
+        }
+      ]
+    },
+
+    {
+      "name": "Aperitifs",
+      "items": [
+        {
+          "name": "Negroni",
+          "price": "7,00"
+        },
+        {
+          "name": "Gin Tonic",
+          "price": "7,00"
+        },
+        {
+          "name": "Vodka Tonic",
+          "price": "7,00"
+        },
+        {
+          "name": "Spritz",
+          "price": "7,00"
+        },
+        {
+          "name": "Prosecco",
+          "price": "5,00"
+        }
+      ]
+    },
+
+    {
+      "name": "Wine",
+      "items": [
+        {
+          "name": "Merlot Sicilia Doc",
+          "price": "15,00"
+        },
+        {
+          "name": "Nero d'Avola",
+          "price": "15,00"
+        },
+        {
+          "name": "Frappato Mandrarossa",
+          "price": "15,00"
+        },
+        {
+          "name": "Maria Costanza",
+          "price": "50,00"
+        }
+      ]
+    },
+
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Tiramisù",
+          "price": "5,00"
+        },
+        {
+          "name": "Mango cheesecake",
+          "price": "5,00"
+        },
+        {
+          "name": "Chocolate cheesecake",
+          "price": "5,00"
+        },
+        {
+          "name": "Molten chocolate cake",
+          "price": "5,00"
+        },
+        {
+          "name": "Black truffle",
+          "price": "5,00"
+        },
+        {
+          "name": "White truffle",
+          "price": "5,00"
+        },
+        {
+          "name": "Sorbet",
+          "price": "3,00"
+        },
+        {
+          "name": "Sicilian cannoli",
+          "price": "3,00"
+        }
+      ]
+    }
+
+  ]
+}

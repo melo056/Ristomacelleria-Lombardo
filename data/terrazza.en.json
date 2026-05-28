@@ -1,0 +1,303 @@
+{
+  "categories": [
+    {
+      "name": "Appetizers",
+      "items": [
+        {
+          "name": "Bruschetta – assorted flavors",
+          "price": "€ 3.00"
+        },
+        {
+          "name": "Italian platter (cold cuts, cheese, olives)",
+          "price": "€ 7.50"
+        },
+        {
+          "name": "French fries",
+          "price": "€ 2.50"
+        },
+        {
+          "name": "Mixed fried platter (French fries, croquettes, sausages and onion rings)",
+          "price": "€ 5.00"
+        }
+      ]
+    },
+    {
+      "name": "Main Courses",
+      "items": [
+        {
+          "name": "The Rib Eye (Scottona beef rib steak with fries)",
+          "price": "€ 14.00"
+        },
+        {
+          "name": "The Cow Rib (Beef rib steak with fries)",
+          "price": "€ 14.00"
+        },
+        {
+          "name": "The Pork (Sausage, pork chop and fries)",
+          "price": "€ 12.00"
+        },
+        {
+          "name": "The Scotton (Lamb chops, pork rolls, hamburger and fries)",
+          "price": "€ 15.00"
+        },
+        {
+          "name": "The Chicken (Seasoned chicken leg, chicken rolls, wings and fries)",
+          "price": "€ 12.00"
+        },
+        {
+          "name": "The Mixed Grill (Sausage, pork rolls, hamburger, wings, onion and fries)",
+          "price": "€ 18.00"
+        },
+        {
+          "name": "The Cut Chicken (Sliced chicken breast 500g with fries)",
+          "price": "€ 12.00"
+        },
+        {
+          "name": "The Demy (Mixed pork rolls, sausage, bacon and fries)",
+          "price": "€ 13.00"
+        },
+        {
+          "name": "The Cut approx. 600g (Scottona sirloin steak with fries)",
+          "price": "€ 24.00"
+        },
+        {
+          "name": "The Fiorentina approx. 1kg (Scottona T-bone steak with fries)",
+          "price": "€ 35.00"
+        },
+        {
+          "name": "Skewer with fries or salad",
+          "price": "€ 8.00"
+        },
+        {
+          "name": "Pork chop with fries or salad",
+          "price": "€ 8.00"
+        },
+        {
+          "name": "Chicken breast with fries or salad",
+          "price": "€ 8.00"
+        },
+        {
+          "name": "Grilled spring chicken",
+          "price": "€ 10.00"
+        },
+        {
+          "name": "Scottona beef fritters with melted cheese (served with fries)",
+          "price": "€ 8.00"
+        },
+        {
+          "name": "Lamb meatballs with fries or salad",
+          "price": "€ 10.00"
+        },
+        {
+          "name": "Horse meatballs with fries or salad",
+          "price": "€ 10.00"
+        },
+        {
+          "name": "Horse meat rolls with fries or salad",
+          "price": "€ 8.00"
+        },
+        {
+          "name": "Stockfish 'ghiotta style'",
+          "price": "€ 15.00"
+        },
+        {
+          "name": "Tuna belly 'ghiotta style'",
+          "price": "€ 15.00"
+        },
+        {
+          "name": "Lamb chops 300g",
+          "price": "€ 15.00"
+        }
+      ]
+    },
+    {
+      "name": "Pizzeria",
+      "items": [
+        {
+          "name": "Margherita (Fior di latte mozzarella, tomato sauce, basil, olive oil)",
+          "price": "€ 7"
+        },
+        {
+          "name": "Primavera (Fior di latte mozzarella, tomato sauce, cooked ham, olive oil)",
+          "price": "€ 8"
+        },
+        {
+          "name": "Romana (Fior di latte mozzarella, tomato sauce, black olives, anchovies, olive oil)",
+          "price": "€ 8"
+        },
+        {
+          "name": "Messinese (Fior di latte mozzarella, tomato sauce, escarole, anchovies, olive oil)",
+          "price": "€ 9"
+        },
+        {
+          "name": "Champignon (Fior di latte mozzarella, tomato sauce, champignon mushrooms, olive oil)",
+          "price": "€ 9"
+        },
+        {
+          "name": "Piccantella (Fior di latte mozzarella, tomato sauce, spicy salami, olive oil)",
+          "price": "€ 10"
+        },
+        {
+          "name": "Capricciosa (Fior di latte mozzarella, tomato sauce, mushrooms, cooked ham, artichokes, black olives, olive oil)",
+          "price": "€ 10"
+        },
+        {
+          "name": "Norma (Fior di latte mozzarella, tomato sauce, eggplant, baked ricotta, basil, olive oil)",
+          "price": "€ 10"
+        },
+        {
+          "name": "Bufala (Buffalo mozzarella, fior di latte mozzarella, tomato sauce, basil, olive oil)",
+          "price": "€ 11"
+        },
+        {
+          "name": "Affumicata (Smoked mozzarella, fior di latte mozzarella, tomato sauce, speck, olive oil)",
+          "price": "€ 12"
+        },
+        {
+          "name": "Bresaola (Fior di latte mozzarella, tomato sauce, arugula, bresaola, parmesan flakes, olive oil)",
+          "price": "€ 12"
+        },
+        {
+          "name": "Pistacchiosa (Fior di latte mozzarella, mortadella, burrata, pistachio pesto, crushed pistachios, olive oil)",
+          "price": "€ 14"
+        }
+      ]
+    },
+    {
+      "name": "Drinks",
+      "items": [
+        {
+          "name": "Still water",
+          "price": "€ 2.00"
+        },
+        {
+          "name": "Sparkling water (Lete)",
+          "price": "€ 2.00"
+        },
+        {
+          "name": "Coca-Cola, Sprite, orange soda or chinotto (can)",
+          "price": "€ 2.00"
+        },
+        {
+          "name": "Messina beer 33cl",
+          "price": "€ 2.00"
+        },
+        {
+          "name": "Local red wine 25cl",
+          "price": "€ 2.00"
+        },
+        {
+          "name": "Heineken beer 33cl",
+          "price": "€ 3.00"
+        },
+        {
+          "name": "Coca-Cola 1.5L",
+          "price": "€ 3.50"
+        },
+        {
+          "name": "Tennent's beer 33cl",
+          "price": "€ 4.00"
+        },
+        {
+          "name": "Local red wine 1L",
+          "price": "€ 5.00"
+        },
+        {
+          "name": "Peroni Red / Raffo Blonde draft beer 20cl",
+          "price": "€ 2.00"
+        },
+        {
+          "name": "Peroni Red / Raffo Blonde draft beer 30cl",
+          "price": "€ 3.00"
+        },
+        {
+          "name": "Peroni Red / Raffo Blonde draft beer 50cl",
+          "price": "€ 5.00"
+        }
+      ]
+    },
+    {
+      "name": "Cocktails & Aperitifs",
+      "items": [
+        {
+          "name": "Negroni",
+          "price": "€ 7.00"
+        },
+        {
+          "name": "Gin Tonic",
+          "price": "€ 7.00"
+        },
+        {
+          "name": "Vodka Tonic",
+          "price": "€ 7.00"
+        },
+        {
+          "name": "Spritz",
+          "price": "€ 7.00"
+        },
+        {
+          "name": "Prosecco",
+          "price": "€ 5.00"
+        }
+      ]
+    },
+    {
+      "name": "Wines",
+      "items": [
+        {
+          "name": "Merlot Sicilia DOC",
+          "price": "€ 15.00"
+        },
+        {
+          "name": "Nero d'Avola",
+          "price": "€ 15.00"
+        },
+        {
+          "name": "Mandrarossa Frappato",
+          "price": "€ 15.00"
+        },
+        {
+          "name": "Maria Costanza",
+          "price": "€ 50.00"
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Tiramisu",
+          "price": "€ 5.00"
+        },
+        {
+          "name": "Mango cheesecake",
+          "price": "€ 5.00"
+        },
+        {
+          "name": "Chocolate cheesecake",
+          "price": "€ 5.00"
+        },
+        {
+          "name": "Molten lava cake",
+          "price": "€ 5.00"
+        },
+        {
+          "name": "Black truffle ice cream",
+          "price": "€ 5.00"
+        },
+        {
+          "name": "White truffle ice cream",
+          "price": "€ 5.00"
+        },
+        {
+          "name": "Sorbet",
+          "price": "€ 3.00"
+        },
+        {
+          "name": "Sicilian cannolo",
+          "price": "€ 3.00"
+        }
+      ]
+    }
+  ]
+}
